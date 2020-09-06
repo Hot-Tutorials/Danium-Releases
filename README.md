@@ -1,4 +1,12 @@
-# Danium Installation Guide
+# Danium 
+
+## Credits
+Credits go to Danterus as he made the client
+Discord:
+`Danterus#5291`
+`https://github.com/DanterusDev/`
+
+## Danium Installation Guide
 
 To install Danium, you have to follow these steps (There will be an installer which does it automatically in a few days from writing this readme.md)
 ```
